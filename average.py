@@ -8,3 +8,4 @@ while (n>0):
 print "sum =",sum
 avg = sum / s
 print "average =",avg
+
